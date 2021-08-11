@@ -1,0 +1,90 @@
+.bkg{
+    position: relative;
+width: 1519px;
+height: 713px;
+
+background: linear-gradient(113.66deg, #7583FF -1.02%, #FF91F4 100%);
+}
+
+.box{
+position: absolute;
+width: 541px;
+height: 671px;
+left: calc(50% - 541px/2);
+top: calc(50% - 671px/2 - 0.5px);
+
+background: rgba(166, 255, 234, 0.69);
+border-radius: 46px;
+}
+
+.inputField{
+    position: absolute;
+width: 111px;
+height: 40px;
+left: 210px;
+top: 50px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 35px;
+
+color: #3D49B6;
+
+}
+
+.location{
+    position: absolute;
+width: 200px;
+height: 50px;
+left: 175px;
+top: 150px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 70px;
+line-height: 82px;
+/* identical to box height */
+
+
+color: #3D49B6
+}
+
+.temp{
+    position: absolute;
+width: 213px;
+height: 53px;
+left: 90px;
+top: 400px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #004756;
+
+}
+
+.tempmin_max{
+    position: absolute;
+width: 312px;
+height: 41px;
+left: 165px;
+top: 475px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #004756;
+}
